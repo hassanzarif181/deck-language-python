@@ -1,6 +1,8 @@
 {
   "languageId": "python",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "icon": "Worm",
+  "color": "#4b8bbe",
   "extensions": ["py", "pyi"],
   "serverId": "basedpyright",
   "server": {
